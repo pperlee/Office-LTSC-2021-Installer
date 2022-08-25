@@ -12,7 +12,7 @@ for change app language, edit downloadconfig.xml and replace:
 
 to other [language](https://docs.microsoft.com/en-us/deployoffice/office-deployment-tool-configuration-options#language-element).
 
-**setup apps** before **install**:
+**setup** apps before install:
 
 > setup.exe /configure installconfig.xml
 
