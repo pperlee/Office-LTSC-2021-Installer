@@ -3,7 +3,7 @@
 I got this from internet. for windows only. It helps me download Office LTSC 2021 Chinese language version.
 Download all files to your disk, and run the following command with command line tool (e.g. Windows Terminal).
 
-### **download** with command:
+### download with command:
 
 > setup.exe /download downloadconfig.xml
 
@@ -13,7 +13,7 @@ for change app language, edit downloadconfig.xml and replace:
 
 to other [language](https://docs.microsoft.com/en-us/deployoffice/office-deployment-tool-configuration-options#language-element).
 
-### **setup** apps before install:
+### setup apps before install:
 
 > setup.exe /configure installconfig.xml
 
