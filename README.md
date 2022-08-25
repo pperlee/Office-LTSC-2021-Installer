@@ -6,6 +6,10 @@ I got this from internet. for windows only.
 
 > setup.exe /download downloadconfig.xml
 
+for change app language, edit downloadconfig.xml and tpye:
+
+> 
+
 **setup apps** before install:
 
 > setup.exe /configure installconfig.xml
