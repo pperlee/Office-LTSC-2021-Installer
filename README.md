@@ -1,6 +1,6 @@
 ## Office-LTSC-2021-Installer
 
-I got this from internet. for windows only. It helps me download Office LTSC 2021 Chinese language version.
+I got this from internet. for windows only. It helps me download Office LTSC 2021 Chinese language version. 
 Download all files to your disk, and run the following command with command line tool (e.g. Windows Terminal).
 
 ### download with command:
