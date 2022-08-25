@@ -26,4 +26,6 @@ to other language.
 
 [Deploy Office LTSC 2021](https://docs.microsoft.com/en-us/deployoffice/ltsc2021/deploy)
 
+[Office Deployment Tool](https://www.microsoft.com/download/details.aspx?id=49117)
+
 ## enjoy.
