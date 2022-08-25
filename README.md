@@ -10,7 +10,7 @@ for change app language, edit downloadconfig.xml and replace:
 
 > zh-cn
 
-to other language.
+to other [language](https://docs.microsoft.com/en-us/deployoffice/office-deployment-tool-configuration-options#language-element).
 
 **setup apps** before **install**:
 
@@ -20,7 +20,7 @@ if language changed when you download files, you must edit installconfig.xml and
 
 > zh-cn
 
-to other language.
+to other [language](https://docs.microsoft.com/en-us/deployoffice/office-deployment-tool-configuration-options#language-element).
 
 ## Microsoft Official Link
 
