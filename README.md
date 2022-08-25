@@ -6,11 +6,13 @@ I got this from internet. for windows only.
 
 > setup.exe /download downloadconfig.xml
 
-for change app language, edit downloadconfig.xml and tpye:
+for change app language, edit downloadconfig.xml and replace:
 
-> 
+> zh-cn
 
-**setup apps** before install:
+to other language.
+
+**setup apps** before **install**:
 
 > setup.exe /configure installconfig.xml
 
