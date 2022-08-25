@@ -22,4 +22,8 @@ if language changed when you download files, you must edit installconfig.xml and
 
 to other language.
 
+## Microsoft Official Link
+
+[Deploy Office LTSC 2021](https://docs.microsoft.com/en-us/deployoffice/ltsc2021/deploy)
+
 ## enjoy.
