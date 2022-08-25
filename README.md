@@ -16,4 +16,10 @@ to other language.
 
 > setup.exe /configure installconfig.xml
 
+if language changed when you download files, you must edit installconfig.xml and replace:
 
+> zh-cn
+
+to other language.
+
+## enjoy.
